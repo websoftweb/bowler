@@ -2,6 +2,13 @@
 
 A bowling score app
 
+## What you are looking for
+The application logic is actually in bowler/lib/home.dart
+
+## Known Issues
+Round 10 is not fully implemented...
+Current score is not updated until you move to the next round.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
