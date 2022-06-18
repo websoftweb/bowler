@@ -9,6 +9,10 @@ The application logic is actually in bowler/lib/home.dart
 Round 10 is not fully implemented...
 Current score is not updated until you move to the next round.
 
+## Youtube Link
+https://www.youtube.com/watch?v=c4xGDo2QKxk
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
